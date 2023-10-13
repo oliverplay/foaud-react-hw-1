@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/foaud-react-hw-1/static/css/main.b92b91dc.css",
+    "main.js": "/foaud-react-hw-1/static/js/main.3c998b03.js",
+    "index.html": "/foaud-react-hw-1/index.html",
+    "main.b92b91dc.css.map": "/foaud-react-hw-1/static/css/main.b92b91dc.css.map",
+    "main.3c998b03.js.map": "/foaud-react-hw-1/static/js/main.3c998b03.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b92b91dc.css",
+    "static/js/main.3c998b03.js"
+  ]
+}
